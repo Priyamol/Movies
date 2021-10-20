@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recycler_movie_image">recycler_movie_image</string>
+    <string name="detail_backdrop_image">detail backdrop image</string>
+    <string name="detail_movie_poster_image">detail movie poster image</string>
+    <string name="activity_detail_poster_image">activity_detail_poster_image</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="budget_k">budget: $---k</string>
+    <string name="runtime_mins">runtime: ---mins</string>
+    <string name="read_more">read more</string>
+    <string name="review">REVIEW</string>
+    <string name="reviews">REVIEWS</string>
+    <string name="cast">CAST</string>
+    <string name="trailer_poster">trailer_poster</string>
+    <string name="play_image">play_image</string>
+    <string name="trailers">TRAILERS</string>
+
+
+
+
+
+    <string name="favourite">Favourites</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="imdb">IMDB</string>
+    <string name="find_out_more">FIND OUT MORE</string>
+    <string name="see_similar_movies">See similar movies</string>
+    <string name="crew">CREW</string>
+    <string name="search_hint">Search a movie</string>
+
+    <string name="no_results">No results</string>
+
+
+    <string name="general">General</string>
+
+
+</resources>
