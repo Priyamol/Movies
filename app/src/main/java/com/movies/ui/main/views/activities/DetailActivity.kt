@@ -17,7 +17,6 @@ import com.movies.utils.Helpers.buildBackdropImageUrl
 import com.movies.utils.Helpers.buildImageUrl
 import com.movies.utils.Helpers.setUpTransparentStatusBar
 import android.content.Intent
-import android.content.SharedPreferences
 import android.net.Uri
 import android.os.Bundle
 import android.view.MenuItem
@@ -31,7 +30,6 @@ import androidx.appcompat.widget.Toolbar
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSnapHelper
 import androidx.recyclerview.widget.RecyclerView

@@ -2,7 +2,6 @@ package com.movies.ui.main.views.activities
 
 import com.movies.R
 import com.movies.ui.main.views.fragments.PopularMoviesFragment
-import android.content.SharedPreferences
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
